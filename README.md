@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Davie</h1>
 <h3 align="center">A passionate junior software dev <img src=https://tenor.com/view/kaito-typing-gaming-programming-anime-gif-9051183.gif width='30'>from Nairobi, Kenya</h3>
 <p>
