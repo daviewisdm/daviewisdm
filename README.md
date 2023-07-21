@@ -24,7 +24,7 @@
 <a href="https://instagram.com/wisdm.k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wisdm.k" height="30" width="40" /></a>
 </p>
 <p>
-  <img align="center" src="https://tenor.com/view/yo-hit-me-up-call-me-holla-hmu-eman-sv2-gif-15495089.gif">
+  <img align="center" src="https://tenor.com/view/yo-hit-me-up-call-me-holla-hmu-eman-sv2-gif-15495089.gif" width="300">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
