@@ -15,6 +15,8 @@
 
 - 🌱 I’m currently learning **C programming and Python**
 
+- 🤝  I'm open to collaborating on Projects
+
 - 📫 Hit me up on **wisdomdavie24@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
