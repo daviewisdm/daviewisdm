@@ -36,7 +36,7 @@
 </p>
 
 ### I would probably beat you at...
-<h4>Dark Humour.. LOL😁</h4>
+<br>Dark Humour.. LOL😁</br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daviewisdm&show_icons=true&locale=en&layout=compact" alt="daviewisdm" /></p>
 
