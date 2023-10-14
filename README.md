@@ -1,7 +1,7 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&size=30&pause=1000&color=F7B853&width=435&lines=A+Passionate+Frontend+Dev)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Davie Wisdom</h1>
-<h3 align="center">A passionate full stack software dev <img src=https://tenor.com/view/kaito-typing-gaming-programming-anime-gif-9051183.gif width='30'>from Nairobi, Kenya</h3>
+<h3 align="center">A passionate Frontend dev <img src=https://tenor.com/view/kaito-typing-gaming-programming-anime-gif-9051183.gif width='30'>from Nairobi, Kenya</h3>
 <p>
   <center>
 <img align="middle" class="center" alt="Coder GIF" height=250 width=350 src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **C programming and Python**
 
-- 🤝  I'm open to collaborating on Projects
+- 🤝  I'm open to collaborating on projects.
 
 - 📫 Hit me up on **wisdomdavie24@gmail.com**
 
@@ -35,7 +35,7 @@
   <img align="center" src="https://media1.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47pqr2kmzgzxcffdbh5bqfpxnyhsn5ve1ujclnjgpg&ep=v1_gifs_search&rid=giphy.gif&ct=g.gif">
 </p>
 
-### I would probably beat you at ...
+### I would probably beat you at...
 <h4>Dark Humour.. LOL😁</h4>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daviewisdm&show_icons=true&locale=en&layout=compact" alt="daviewisdm" /></p>
