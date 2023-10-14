@@ -1,6 +1,6 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&size=30&pause=1000&color=F7B853&width=435&lines=A+Passionate+Frontend+Dev)](https://git.io/typing-svg)
 
-# <br>Hi 👋, I'm Davie Wisdom</br>
+# <center><br>Hi 👋, I'm Davie Wisdom</br></center>
  <br>A passionate Frontend dev <img src=https://tenor.com/view/kaito-typing-gaming-programming-anime-gif-9051183.gif width='30'>from Nairobi, Kenya</br>
 <p>
   <center>
