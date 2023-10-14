@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daviewisdm" alt="daviewisdm" /></a> </p>
 
-- 🌱 I’m currently learning <b>**Python and C programming(to crack up my brain...LOL)**</b>
+- 🌱 I’m currently learning <b>**Python and C programming</b>(to crack up my brain...LOL)**
 
 - 🤝  I'm open to collaborating on projects.
 
