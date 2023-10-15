@@ -42,6 +42,10 @@
 ### I would probably beat you at...
 <br>Dark Humour.. LOL😁</br>
 
+### Love
+<br>Nature</br>
+<br>Ronaldo</br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daviewisdm&show_icons=true&locale=en&layout=compact" alt="daviewisdm" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daviewisdm&show_icons=true&locale=en" alt="daviewisdm" /></p>
