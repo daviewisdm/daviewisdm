@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Flavors&size=29&pause=1000&color=83F7EB&random=false&width=435&lines=An+Ardent+Frontend+Developer)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Flavors&size=29&pause=1000&color=83F7EB&random=false&width=435&lines=An+Ardent+Frontend+Developer</!>)](https://git.io/typing-svg)
 
 # <center><br>Hi 👋, I'm Davie Wisdom</br></center>
  <br>A passionate Frontend dev <img src=https://tenor.com/view/kaito-typing-gaming-programming-anime-gif-9051183.gif width='30'>from Nairobi, Kenya</br>
