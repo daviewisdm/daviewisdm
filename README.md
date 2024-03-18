@@ -13,6 +13,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daviewisdm" alt="daviewisdm" /></a> </p>
 
+
 - 🌱 I’m currently learning <b>**Python, Dart and Ruby</b>(to crack up my brain...LOL)**
 
 - 🤝  I'm open to collaborating on projects.
@@ -51,3 +52,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daviewisdm&show_icons=true&locale=en" alt="daviewisdm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daviewisdm&" alt="daviewisdm" /></p>
+
+
