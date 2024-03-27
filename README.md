@@ -52,7 +52,7 @@
 <br>Dark Humour.. LOL😁</br>
 
 ### Love
-<br>Nature</br><br>Ronaldo</br>
+<br>Nature</br><br>DevOps</br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daviewisdm&show_icons=true&locale=en&layout=compact" alt="daviewisdm" /></p>
 
