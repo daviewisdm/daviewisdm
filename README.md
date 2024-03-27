@@ -24,6 +24,13 @@
 
 - Web Technologies: HTML, CSS, JavaScript
 
+<h3 align="left">Badges </h3>
+<p align="left">
+ <a href="https://www.credly.com/badges/a109d3a3-9738-4780-bd1a-6b330e248fd1/public_url">
+   <img src="https://images.credly.com/size/220x220/images/486d0b19-bd25-4559-93d8-028809d56df6/image.png" alt="MicrosoftAzure" />
+ </a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/davie-wisdom-32b004277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davie-wisdom-32b004277" height="30" width="40" /></a>
