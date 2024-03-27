@@ -27,11 +27,12 @@
 <h3 align="left">Badges </h3>
 <p align="left">
  <a href="https://www.credly.com/badges/a109d3a3-9738-4780-bd1a-6b330e248fd1/public_url">
-   <img src="https://images.credly.com/size/200x200/images/486d0b19-bd25-4559-93d8-028809d56df6/image.png" alt="MicrosoftAzure" />
+   <img src="https://images.credly.com/size/175x185/images/486d0b19-bd25-4559-93d8-028809d56df6/image.png" alt="MicrosoftAzure" />
  </a>
  <a href="https://globalai.community/badges/0fa1f125-b0c9-4f5c-a745-1fbd52a92734/">
-   <img src="https://globalai.community/media/iv5jzilc/kenya_nairobi_615_sticker.png?width=200&height=200&v=1da513e869e6280" alt="Global AI"/>
+   <img src="https://globalai.community/media/iv5jzilc/kenya_nairobi_615_sticker.png?width=185&height=185&v=1da513e869e6280" alt="Global AI"/>
  </a>
+ 
 </p>
 
 <h3 align="left">Connect with me:</h3>
