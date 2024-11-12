@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sour+Gummy&weight=800&size=27&duration=4999&pause=1000&color=919E3FF9&width=435&lines=Heja%F0%9F%91%8B%F0%9F%8F%BE%2C+I'm+Davie+Kibet;I'm+a+Data+Scientist)](https://git.io/typing-svg)
 
 
 # 💫 About Me:
